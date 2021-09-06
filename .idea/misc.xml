@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/ArchitectureExample/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/ArchitectureExample/app/src/main/res/drawable/ic_close.xml" value="0.2203125" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/ArchitectureExample/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/ArchitectureExample/app/src/main/res/layout/activity_add_note.xml" value="0.1358695652173913" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/ArchitectureExample/app/src/main/res/layout/activity_main.xml" value="0.1358695652173913" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/ArchitectureExample/app/src/main/res/layout/activity_splash.xml" value="0.1358695652173913" />
+        <entry key="..\:/Users/Alper/AndroidStudioProjects/ArchitectureExample/app/src/main/res/layout/note_item.xml" value="0.1358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android API 29 Platform" project-jdk-type="Android SDK" />
+</project>
